@@ -1,4 +1,4 @@
 def my_collection(array) 
   index = 0
-  while 
+  while index <
 end
