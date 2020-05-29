@@ -1,2 +1,2 @@
-def collection 
+def my_collection(array) 
 end
