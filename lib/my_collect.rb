@@ -3,7 +3,7 @@ def my_collection(array)
   
   index = 0
   while index < array.length
-  modified_array
+  modified_array << yield
   yield(array[index])
   index += 1
 end
