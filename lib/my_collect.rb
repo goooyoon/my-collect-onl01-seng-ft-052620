@@ -4,3 +4,4 @@ def my_collection(array)
   yield(array[index])
   index += 1
 end
+end
