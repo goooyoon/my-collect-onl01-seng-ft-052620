@@ -7,4 +7,7 @@ def my_collection(array)
 
   index += 1
 end
+
+modified_array
 end
+
